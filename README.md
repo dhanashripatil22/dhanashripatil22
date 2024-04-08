@@ -19,9 +19,12 @@ I'm currently pursuing my Bachelor's of Engineering in Artificial Intelligence A
 
 - ⚡ Fun fact: **I use tabs over spaces.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/dhanashri-patil07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanashri-patil07" height="30" width="40" /></a>
+  <a href="mailto:dhanashripatil1607@gmail.com">
+     <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
+  </a>
 </p>
 
 <h2 align="Center">⚡️Languages and Tools:</h2>
