@@ -57,3 +57,7 @@ I'm currently pursuing my Bachelor's of Engineering in Artificial Intelligence A
    <br/>
   <img alt="Dhanashri's Activity Graph" src="https://github-profile-trophy.vercel.app/?username=dhanashripatil22&theme=monokai" />
 </details>
+
+<img src="https://raw.githubusercontent.com/dhanashripatil22/dhanashripatil22/output/snake.svg" alt="Snake animation" />
+
+###
