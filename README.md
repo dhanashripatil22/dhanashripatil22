@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanashri Patil</h1>
 <h3 align="center">Pythonic Data Analyst and Frontend Developer: <br> Crafting Elegant Solutions, Unveiling Insights, and Designing Seamless User Experiences</h3>
 
-- 🔭 I’m currently working on:** A Project : SafetyNXT**
+- 🔭 I’m currently working on: **A Project : SafetyNXT**
 
 - 🌱 I’m currently learning: **Advanced data analysis techniques while deepening my frontend development skills, with a focus on UX/UI principles."**
 
