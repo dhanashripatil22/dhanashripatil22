@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhanashri Patil</h1>
+<h1 align="center" color=#FF00FF>Hi 👋, I'm Dhanashri Patil</h1>
 <h3 align="center">Pythonic Data Analyst and Frontend Developer: <br> Crafting Elegant Solutions, Unveiling Insights, and Designing Seamless User Experiences</h3>
 
 - 🔭 I’m currently working on: **A Project : SafetyNXT**
