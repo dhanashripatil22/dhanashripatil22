@@ -39,6 +39,13 @@ I'm currently pursuing my Bachelor's of Engineering in Artificial Intelligence A
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanashripatil22&show_icons=true&locale=en" alt="dhanashripatil22" /></p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dhanashripatil22&show_icons=true&theme=jolly" alt="GitHub Stats" align="center" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanashripatil22&layout=compact&theme=jolly&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
+ </p>
+ 
+<hr>
+
 ### 📊 My Github stats
 
 <details>
