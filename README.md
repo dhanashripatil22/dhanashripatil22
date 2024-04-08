@@ -15,7 +15,7 @@ I'm currently pursuing my Bachelor's of Engineering in Artificial Intelligence A
 
 - 💬 Ask me about: **Python, Data, Frontend, UI/UX, ML, Git.**
 
-- 📫 How to reach me: **dhanashripatil1607@gmail.com**
+- 👯 I’m looking to collaborate on **community projects!**
 
 - ⚡ Fun fact: **I use tabs over spaces.**
 
