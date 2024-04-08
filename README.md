@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+Analyst;Python+Developer;Front-End+Developer;UI%2FUX+Designer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">Crafting Elegant Solutions, Unveiling Insights, and Designing Seamless User Experiences</h3>
-<img align="right" alt="Coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
+<img align="right" alt="Coding" width="400" src="[https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif](https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif)">
 
 - 🔭 I’m currently working on: **A Project : SafetyNXT**
 
