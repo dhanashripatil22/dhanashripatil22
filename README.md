@@ -21,7 +21,7 @@ I'm currently pursuing my Bachelor's of Engineering in Artificial Intelligence A
 - ⚡ Fun fact: **I use tabs over spaces.**
 - 
 
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">🤝🏻Connect with me:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/dhanashri-patil07">
    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
