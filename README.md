@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **Advancing data and frontend with UX/UI**
 
-- 💬 Ask me about: **Python, Data, Frontend, UI/UX, ML, Git Enthusiast!**
+- 💬 Ask me about: **Python, Data, Frontend, UI/UX, ML, Git.**
 
 - 📫 How to reach me: **dhanashripatil1607@gmail.com**
 
