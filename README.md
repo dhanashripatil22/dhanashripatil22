@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **dhanashripatil1607@gmail.com**
 
-- ⚡ Fun fact: **I'm a night owl and do my best coding after midnight.**
+- ⚡ Fun fact: **I use tabs over spaces.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
