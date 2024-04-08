@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+Analyst;Python+Developer;Front-End+Developer;UI%2FUX+Designer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geethika02&label=Profile%20views&color=0e75b6&style=flat" alt="geethika02" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dhanashripatil22&label=Profile%20views&color=0e75b6&style=flat" alt="dhanashripatil22" /> </p>
 <h3 align="center">Crafting Elegant Solutions, Unveiling Insights, and Designing Seamless User Experiences</h3>
 
 <h2 align=""> ✨ About me </h2> 
