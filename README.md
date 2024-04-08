@@ -39,7 +39,7 @@ I'm currently pursuing my Bachelor's of Engineering in Artificial Intelligence A
   <summary>🔥 GitHub Streak</summary>
   <br/>
    <a href="https://github.com/coding-geek21/github-readme-streak-stats">
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhanashri's streak" src=""https://github-readme-streak-stats.herokuapp.com/?user=dhanashripatil22&hide_border=true"/>
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhanashri's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanashripatil22&theme=jolly&hide_border=true"/>
   </a>
   <br/>
 </details>                                                                          
