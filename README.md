@@ -39,12 +39,12 @@ I'm currently pursuing my Bachelor's of Engineering in Artificial Intelligence A
   <summary>🔥 GitHub Streak</summary>
   <br/>
    <a href="https://github.com/coding-geek21/github-readme-streak-stats">
-   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayapritha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=coding-geek21&theme=jolly&hide_border=true"/>
+   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dhanashri's streak" src=""https://github-readme-streak-stats.herokuapp.com/?user=dhanashripatil22&hide_border=true"/>
   </a>
   <br/>
 </details>                                                                          
 <details>
    <summary>🏆 Github Trophies </summary>
    <br/>
-  <img alt="Jayapritha's Activity Graph" src="https://github-profile-trophy.vercel.app/?username=coding-geek21&theme=monokai" />
+  <img alt="Dhanashri's Activity Graph" src="https://github-profile-trophy.vercel.app/?username=dhanashripatil22&theme=monokai" />
 </details>
