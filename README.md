@@ -1,10 +1,9 @@
 <h1 align="center" color=#FF00FF>Hi 👋, I'm Dhanashri Patil</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=Open+source+Enthusiast;Data+
-Analyst;Front-End+Web+Developer;Django+Developer&center=true&width=380&height=45"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+Analyst;Python+Developer;Front-End+Developer;UI%2FUX+Designer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
 </p>
-<h3 align="center">Pythonic Data Analyst and Frontend Developer: <br> Crafting Elegant Solutions, Unveiling Insights, and Designing Seamless User Experiences</h3>
+<h3 align="center">Crafting Elegant Solutions, Unveiling Insights, and Designing Seamless User Experiences</h3>
 <img align="right" alt="Coding" width="400" src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif">
 
 - 🔭 I’m currently working on: **A Project : SafetyNXT**
