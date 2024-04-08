@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Dhanashri Patil</h1>
 <h3 align="center">Pythonic Data Analyst and Frontend Developer: <br> Crafting Elegant Solutions, Unveiling Insights, and Designing Seamless User Experiences</h3>
 
-- 🔭 I’m currently working on **SafetyNXT**
+- 🔭 I’m currently working on:** A Project : SafetyNXT**
 
-- 🌱 I’m currently learning **Advanced data analysis techniques while deepening my frontend development skills, with a focus on UX/UI principles."**
+- 🌱 I’m currently learning: **Advanced data analysis techniques while deepening my frontend development skills, with a focus on UX/UI principles."**
 
-- 💬 Ask me about **Python Programming, Data Analysis, Frontend Development, UI/UX Design, Machine Learning, Data Visualization, Git, or any related queries!**
+- 💬 Ask me about: **Python Programming, Data Analysis, Frontend Development, UI/UX Design, Machine Learning, Data Visualization, Git, or any related queries!**
 
 - 📫 How to reach me: **dhanashripatil1607@gmail.com or connect with me on Linkedln at dhanashri-patil07.
   I'm always open to collaborations and discussions!**
 
-- ⚡ Fun fact **I'm an amateur astronomer and enjoy observing celestial phenomena like meteor showers and eclipses.**
+- ⚡ Fun fact: **I'm an amateur astronomer and enjoy observing celestial phenomena like meteor showers and eclipses.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
