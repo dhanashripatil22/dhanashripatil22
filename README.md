@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python programming, data analysis, frontend development, UI/UX design, machine learning, data visualization, Git, or any related queries!**
 
-- 📫 How to reach me **Feel free to reach out to me via email at dhanashripatil1607@gmail.com or connect with me on Linkedln at dhanashri-patil07. I'm always open to collaborations and discussions!**
+- 📫 How to reach me: **dhanashripatil1607@gmail.com or connect with me on Linkedln at dhanashri-patil07. I'm always open to collaborations and discussions!**
 
 - ⚡ Fun fact **I'm an amateur astronomer and enjoy observing celestial phenomena like meteor showers and eclipses.**
 
