@@ -8,7 +8,7 @@
 
 <h2 align=""> ✨ About me </h2> 
 I'm currently pursuing my Bachelor's of Engineering in Artificial Intelligence And Data Science, driven by a strong self-motivation and an appetite for challenges. A quick learner by nature, I constantly seek opportunities to expand my knowledge and skills. With a passion for coding, I'm eager to contribute to open-source projects. I'm constantly exploring new techniques to uncover insights and enhance my projects, I am committed to self-improvement and growth in all aspects of my work. Feel free to reach out for collaboration or any related queries!
-<img align="right" alt="Coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
+<img align="right" alt="Coding" width="300" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
 - 🔭 I’m currently working on: **A Project : SafetyNXT**
 
