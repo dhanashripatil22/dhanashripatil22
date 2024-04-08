@@ -19,6 +19,7 @@ I'm currently pursuing my Bachelor's of Engineering in Artificial Intelligence A
 - 👯 I’m looking to collaborate on **community projects!**
 
 - ⚡ Fun fact: **I use tabs over spaces.**
+- 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
