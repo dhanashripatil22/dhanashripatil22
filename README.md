@@ -42,6 +42,14 @@ I'm currently pursuing my Bachelor's of Engineering in Artificial Intelligence A
  
 <hr>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 ### 📊 My Github stats
 
 <details>
@@ -58,6 +66,3 @@ I'm currently pursuing my Bachelor's of Engineering in Artificial Intelligence A
   <img alt="Dhanashri's Activity Graph" src="https://github-profile-trophy.vercel.app/?username=dhanashripatil22&theme=monokai" />
 </details>
 
-<img src="https://raw.githubusercontent.com/dhanashripatil22/dhanashripatil22/output/snake.svg" alt="Snake animation" />
-
-###
