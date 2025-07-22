@@ -32,7 +32,7 @@ I hold a Bachelor's degree in Artificial Intelligence and Data Science, having g
 
 <h2 align="Center">⚡️Languages and Tools:</h2>
                   
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 800px; margin: 0 auto; padding: 10px;">
+<div align="center" style="display: grid; grid-template-columns: repeat(14, 1fr); gap: 10px; max-width: 980px; margin: 0 auto; padding: 10px;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
@@ -52,7 +52,7 @@ I hold a Bachelor's degree in Artificial Intelligence and Data Science, having g
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/flask/flask-original.svg" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -75,6 +75,9 @@ I hold a Bachelor's degree in Artificial Intelligence and Data Science, having g
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
+</div>
+
+<div align="center" style="display: grid; grid-template-columns: repeat(14, 1fr); gap: 10px; max-width: 980px; margin: 0 auto; padding: 10px;">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
