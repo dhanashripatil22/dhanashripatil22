@@ -1,19 +1,19 @@
 <h1 align="center" color=#FF00FF>Hi 👋, I'm Dhanashri Patil</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+Analyst;Python+Developer;Front-End+Developer;UI%2FUX+Designer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+Analyst;Python+Developer;Front-End+Developer;UI%2F.Net+Developer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhanashripatil22&label=Profile%20views&color=0e75b6&style=flat" alt="dhanashripatil22" /> </p>
 
 <h2 align=""> ✨ About me </h2> 
-I'm currently pursuing my Bachelor's of Engineering in Artificial Intelligence And Data Science, driven by a strong self-motivation and an appetite for challenges. A quick learner by nature, I constantly seek opportunities to expand my knowledge and skills. With a passion for coding, I'm eager to contribute to open-source projects. I'm constantly exploring new techniques to uncover insights and enhance my projects, I am committed to self-improvement and growth in all aspects of my work. Feel free to reach out for collaboration or any related queries!
+I hold a Bachelor's degree in Artificial Intelligence and Data Science, having graduated with a CGPA of 9.55. This achievement reflects my strong self-motivation and appetite for challenges. As a quick learner, I actively seek opportunities to expand my knowledge and skills. I have a genuine passion for coding and am eager to contribute to open-source projects. I continuously explore new techniques to uncover insights and enhance my projects, demonstrating my commitment to self-improvement and growth. I welcome collaborations and any related discussions!
 <img align="right" alt="Coding" width="300" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
 - 🔭 I’m currently working on: **A Project : SafetyNXT**
 
 - 🌱 I’m currently learning: **Advancing data and frontend with UX/UI**
 
-- 💬 Ask me about: **Python, Data, Frontend, UI/UX, ML, Git.**
+- 💬 Ask me about: **Python, Data, C#, Java, Frontend, ML, Git.**
 
 - 👯 I’m looking to collaborate on **community projects!**
 
