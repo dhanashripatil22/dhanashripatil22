@@ -1,7 +1,7 @@
 <h1 align="center" color=#FF00FF>Hi 👋, I'm Dhanashri Patil</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+Analyst;Python+Developer;Front-End+Developer;%2F.Net+Developer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&duration=2000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Data+Analyst;Python+Developer;Front-End+Developer;.Net+Developer;Open+Source+Enthusiast" alt="Typing SVG" /></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dhanashripatil22&label=Profile%20views&color=0e75b6&style=flat" alt="dhanashripatil22" /> </p>
 
