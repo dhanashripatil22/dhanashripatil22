@@ -9,15 +9,15 @@
 I hold a Bachelor's degree in Artificial Intelligence and Data Science, having graduated with a CGPA of 9.55. This achievement reflects my strong self-motivation and appetite for challenges. As a quick learner, I actively seek opportunities to expand my knowledge and skills. I have a genuine passion for coding and am eager to contribute to open-source projects. I continuously explore new techniques to uncover insights and enhance my projects, demonstrating my commitment to self-improvement and growth. I welcome collaborations and any related discussions!
 <img align="right" alt="Coding" width="300" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
-- 🔭 I’m currently working on: **A Project : SafetyNXT**
+- 🔭 I'm currently a **.NET Developer** and recently completed Project **SafetyNXT**.
 
-- 🌱 I’m currently learning: **Advancing data and frontend with UX/UI**
+- 🌱 Constantly learning and expanding my skillset in diverse areas.
 
-- 💬 Ask me about: **Python, Data, C#, Java, Frontend, ML, Git.**
+- 💬 Hit me up for discussions on: **Python, Data, C#, Java, Frontend, ML, or Git.**
 
-- 👯 I’m looking to collaborate on **community projects!**
+- 👯 Let's collaborate on exciting **community projects!**
 
-- ⚡ Fun fact: **I use tabs over spaces.**
+- ⚡ Fun fact: **Tabs > Spaces.**
 - 
 
 <h2 align="center">🤝🏻Connect with me:</h2>
