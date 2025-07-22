@@ -76,7 +76,7 @@ I hold a Bachelor's degree in Artificial Intelligence and Data Science, having g
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
 </div>
-
+<hr>
 <div align="center" style="display: grid; grid-template-columns: repeat(14, 1fr); gap: 10px; max-width: 980px; margin: 0 auto; padding: 10px;">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
